@@ -9,10 +9,10 @@ var port = 3001
 
 //Connection Info
 var con = mysql.createConnection({
-  host: 'localhost',
-  user: 'hathalye7',
-  password: 'hrishikesh',
-  database: 'HMS',
+  host: '192.168.1.4',
+  user: 'root',
+  password: 'Boobiee',
+  database: 'hospital_db',
   multipleStatements: true
 });
 
